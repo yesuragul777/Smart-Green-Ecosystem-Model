@@ -42,7 +42,7 @@ This project proposes a **smart composting unit** capable of turning household k
 - The 3-channel relay drives the external motor-based fan and grinder system.
 - Sensors feed real-time environmental data to the controller.
 
-📎 [View Circuit Diagram (PDF)](circuit_diagram.png)
+📎 [View Circuit Diagram](circuit_diagram.png)
 
 ---
 
