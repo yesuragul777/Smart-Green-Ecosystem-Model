@@ -1,7 +1,7 @@
 /*
   Smart Green Ecosystem – Composting System
-  Author: Ashik Sharon M
-  Reg No: 24MAI0098
+  Author: Yesu Ragul
+  Reg No: 24MCB0042
   Description: Automates drying and grinding of kitchen waste using sensors and relays
 */
 
